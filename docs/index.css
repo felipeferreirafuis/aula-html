@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+    font-family: monospace;
+
+}
+/* Seletor de classe*/
+.titulo{
+    text-align: center;
+    margin: 5%;
+}
+section{
+    border-bottom: solid;
+}
